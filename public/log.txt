@@ -1,7 +1,0 @@
-asfasd
-asdfasd
-<script>alert()</script>
-"hoge"; die("hoge")
-
-asad
-xxxxxxx
